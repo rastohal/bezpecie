@@ -258,7 +258,7 @@ footer {
     }
 
     main {
-        width: min(100% - 8px, 600px);
+        width: min(100% - 14px, 600px);
     }
 
     .hero {
@@ -307,6 +307,10 @@ footer {
 
     .text {
         margin-left: 55;
+    }
+
+   .text p {
+    margin-left: 55px;
     }
 
     .details {
