@@ -284,13 +284,13 @@ footer {
     .hero-text {
         order: 1;
     }
-
+   
     h1 {
-       font-size: clamp(2.8rem, 13vw, 4.2rem);
+       font-size: clamp(3.2rem, 16vw, 5rem);
     }
 
    h2 {
-       font-size: clamp(1.9rem, 8vw, 2.8rem);
+       font-size: clamp(2.3rem, 11vw, 3.5rem);
    }
 
     section {
