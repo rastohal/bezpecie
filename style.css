@@ -253,7 +253,7 @@ footer {
 @media (max-width: 700px) {
 
     body {
-        font-size: 19px;
+        font-size: 18px;
         line-height: 1.65;
     }
 
@@ -318,7 +318,7 @@ footer {
     }
 
     .text {
-        margin-left: 0;
+        margin-left: auto;
         max-width: none;
     }
 
