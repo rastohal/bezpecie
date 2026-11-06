@@ -181,7 +181,7 @@ section h2 {
 
 .about-layout .text {
     max-width: 680px;
-    margin-left: 0;
+    margin-left: auto;
 }
 
 /* --------------------------------------------------
